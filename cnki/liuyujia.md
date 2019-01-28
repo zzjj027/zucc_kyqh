@@ -1,0 +1,9 @@
+> 所需文献-软件工程1802刘羽佳
+
+[软件定义网络的若干安全问题的研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2018&filename=1018254804.nh&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaFcvSkNTOXdkeWg1NXdQZmsxMEJHZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDQ5Mzk4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlp1UnFGeXZoVmIvTlZGMjZGckc5R3RuTXE1RWJQSVI=)
+
+[基于网络异常的入侵检测算法研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201701&filename=1017058878.nh&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaFcvSkNTOXdkeWg1NXdQZmsxMEJHZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjUwNjdmWnVScUZ5dm1XN3ZKVkYyNkdiTzlGdG5McDVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE8=)
+
+[基于多源数据分析的网络安全整体态势与实时态势评估技术研究](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1018259477.nh&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaFcvSkNTOXdkeWg1NXdQZmsxMEJHZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=Mjk0OTVUcldNMUZyQ1VSTE9mWnVScUZ5dmdWYjNQVkYyNkZyRzlGOVhMcUpFYlBJUjhlWDFMdXhZUzdEaDFUM3E=)
+
+[基于神经网络的多源数据攻击检测研究与应用](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201802&filename=1018707957.nh&uid=WEEvREcwSlJHSldTTEYzU3EydDRPaFcvSkNTOXdkeWg1NXdQZmsxMEJHZz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTc4Njl1UnFGeXZnVjczSVZGMjZGclM0R2RqSnFKRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZlo=)

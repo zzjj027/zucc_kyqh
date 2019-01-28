@@ -1,0 +1,2 @@
+[基于神经网络的语音识别算法和Android平台语音助手的实现](http://kns.cnki.net/kcms/detail/detail.aspx?filename=1015433441.nh&dbcode=CMFD)
+[基于深度学习的语音识别模型及其在智能家居中的应用](http://kns.cnki.net/KCMS/detail/33.1338.TS.20181227.1422.016.html)
