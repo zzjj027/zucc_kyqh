@@ -14,9 +14,9 @@ PS：parcel官方文档中有一句console.log('hello world')略有小错，我�
 ### Day 2  
 今天找着mdn教程上打了一个简单的列表消息盒子样式。  
 今天的学习成果：  
-[X]1、可以通过> .info-box ul
-类似的样式来为style为>.info-box
+[x]  1、可以通过>  .info-box ul
+类似的样式来为style为>  .info-box
 的各个子标签设置style  
-[X]2、通过> document.querySelectorAll
+[x]  2、通过>  document.querySelectorAll
 函数可以获取所有指定的html元素  
-[X]3、javascript中的有关Attribute函数可以设置元素是否active  
+[x]  3、javascript中的有关Attribute函数可以设置元素是否active  
