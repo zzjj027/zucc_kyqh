@@ -32,7 +32,7 @@ PS：parcel官方文档中有一句console.log('hello world')略有小错，我�
 
 3、  
 `label[for="toggle"] `  
-可以像如上的方式为含有指定for的元素赋予style
+可以像如上的方式为含有指定for的元素赋予style  
 `input[type="checkbox"]`  
 type也是同理  
 
