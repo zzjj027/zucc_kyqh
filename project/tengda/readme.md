@@ -44,3 +44,20 @@ type也是同理
 成果:  
 实现了checkbox hack  
 实现了一个不用JavaScript的可唤出侧边栏（太真实了，从来没想到过）  
+
+
+### Day 4  
+今天内容：弹性盒子
+[找的辅助资料](https://www.cnblogs.com/cblx/p/8976309.html)  
+
+
+笔记：  
+1、![FlexBoxWrap](../../img/flex-wrapExample.png)  (勘误，这里应该是wrap，打错了QAQ)  
+上图注释掉的`flex-wrap: wrap;`语句在这个example中有一个意想不到的效果
+当该语句不存在时  
+![wrapType1](../../img/wrapType1.png)  
+我们看到了预想中的效果，这里几个框自适应到了一行三个  
+当该语句存在时  
+![wrapType2](../../img/wrapType2.png)  
+这里的框反而好像按列排列，这是因为当指定换行后，我们却没有指定框的左右长度，所以不会有例子1中的自适应的效果，几个框虽然是按照行排列，
+但是每行只有1个，所以和列排列的样式相同。
