@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<title>尝试布局</title>
+    <style>
+        * {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        .left{
+            float: left;
+            width: 15%;
+            background-color: yellowgreen;
+        }
+        .right{
+            float: right;
+            width: 75%;
+            background-color: chocolate;
+        }
+        .head{
+            background-color: blueviolet;
+            text-align: center;
+        }
+        .returnTop{
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            width: 200px;
+            padding: 50px;
+            border-width: 20px;
+            background-color: darkgoldenrod;
+        }
+    </style>
+</head>
+<body>
+
+    <header class='head'>
+        <h1>这是一个页眉</h1>
+        <p>应该好好的放在顶端并且居中显示</p>
+    </header>
+    <div class='left'>
+        <nav>
+            <a href="">这里放几个连接将来设置成可伸缩</a>
+        </nav>
+
+    </div>
+    <div class='right'>
+            <h1>这里是右边的主要内容</h1>
+            <p>先搞一段放着看看</p>
+            <img src="../../../img/comic1.png" alt="填充漫画">
+
+    </div>
+        
+    <div>
+            <img onclick="Top()" src="" alt="返回首页"  class='returnTop'>
+    </div>
+</body>
+
+<script>
+    function Top(){
+        window.scrollTo(0,0);  
+    }
+
+</script>
+</html>
