@@ -39,7 +39,7 @@ name|class|remark
 黄寅佐|软工1702|none
 王梦洁|计算1803|none
 魏耀|计算1701|none
-滕达|???|none
+滕达|计科1702|none
 谢健|计算1803|none
 张瑾|统计1801|none
 俞泽勇|计算1701|md整洁
