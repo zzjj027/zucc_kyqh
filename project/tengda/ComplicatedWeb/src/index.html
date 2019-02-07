@@ -40,14 +40,95 @@
 }
 
 .signUp{
-    border: 1px solid white;
+    border: 1px solid rgba(255, 255, 255, 0.3);
     max-width: 60%;
     min-width: 30%;
     margin-top: 100px;
-    height: 200px;
+    height: 250px;
+    
 }
 
+.signUp p{
+    color: white;
+    margin-top: 15px;
+    opacity: 0.5;
+    text-transform: uppercase;
+}
+.signUp h3{
+    margin-top: 25px;
+    color: white;
+    font-weight: normal;
+    cursor: pointer;
+    letter-spacing: 2px;
+}
 
+@media screen and (min-width:872px) {
+    .input1{
+        float: left;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        background-color: transparent;
+        margin: auto;
+        margin-top: 25px;
+        color: white;
+        vertical-align: middle;
+        width: auto;
+        min-width: 25%;
+        height: 40px;
+        text-align: center;
+        margin-left: 12%; 
+    }
+    .input2{
+        float: left;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        background-color: transparent;
+        margin-top: 25px;
+        color: white;
+        vertical-align: middle;
+        width: auto;
+        min-width: 25%;
+        height: 40px;
+        text-align: center;     
+        margin-left: 3%;       
+    }
+    .signUp button{
+        float: left;
+        background-color: white;
+        margin-top: 25px;
+        margin-left:8%;
+        width: 15%;
+        height: 40px;
+    }
+}
+@media screen and (max-width:871px) {
+    .input1{
+        display: block;
+        text-align: center;  
+        margin-left: 25%;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        background-color: transparent;
+        width: 50%;
+        
+    }
+    .input2{
+        display: block;
+        text-align: center;  
+        margin-left: 25%;
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        background-color: transparent;
+        width: 50%;
+        
+        
+    }
+    .signUp button{
+        display: block;
+        margin: 0 auto;
+        margin-top: 25px;
+        text-align: center;
+        background-color: white;
+        width: 15%;
+        height: 40px;
+    }
+}
 </style>
 
 <head>
@@ -61,8 +142,14 @@
         <p>China is speeding up strategic plan, standards, traffic rules, laws and regulations on accident-incurred liabilities for its smart car industry, Economic Information Daily reported Thursday.</p>
 
         <div class="makecenter signUp">
-
-
+            <h3>CREATE MY ACCOUNT</h3>
+            <p>It is absolutely free</p>
+            <form>
+                <input class="input1" type="text" name="email">
+                <input class="input2" type="password" name="passwd">
+                <button>SIGN UP</button>
+            </form>
+            
         </div>
 
     </div>
